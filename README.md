@@ -7,7 +7,7 @@ A job Portal to enlist jobs and apply for the same. Technologies used --> Reactj
 
 # Assumptions
 
-    - Jobs for filtered on basis of Junior positions
+    - Jobs are filtered on basis of Junior positions
     
 # Install and Run
 
